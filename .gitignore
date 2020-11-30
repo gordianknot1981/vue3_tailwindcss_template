@@ -7,7 +7,7 @@ node_modules
 
 
 # javascript files to be excluded
-./src/*.js
+src/*.js
 
 
 # local env files
@@ -28,3 +28,5 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+package-lock.json
