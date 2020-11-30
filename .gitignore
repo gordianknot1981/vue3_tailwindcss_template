@@ -6,6 +6,10 @@ node_modules
 /tests/e2e/screenshots/
 
 
+# javascript files to be excluded
+./src/*.js
+
+
 # local env files
 .env.local
 .env.*.local
