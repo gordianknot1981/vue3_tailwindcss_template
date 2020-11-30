@@ -8,6 +8,8 @@ node_modules
 
 # javascript files to be excluded
 src/*.js
+src/**/*.js
+
 
 
 # local env files
